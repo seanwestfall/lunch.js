@@ -25,7 +25,7 @@ If you don't see a lunch near you, [create one](https://github.com/jsla/lunch.js
 ![Sign in for Github](/img/github_signin.png)
 
 ![Click the Join a Lunch.js button](/img/lunchjs_join.png)
-* Click the **JOIN A LUNCH** button or visit [https://github/jsla/lunch.js/issues](https://github.com/jsla/lunch.js/issues) page
+* Click the **JOIN A LUNCH** button or visit the [https://github/jsla/lunch.js/issues](https://github.com/jsla/lunch.js/issues) page
 
 ![Find an Event](/img/lunchjs_pickevent.png)
 * The current list of open events will be shown on this page, if you
@@ -36,7 +36,7 @@ can't find an event near you think about starting your own!
 
 ## Create a Lunch.js event 
 ![Click the Create a Lunch.js button](/img/lunchjs_create.png)
-* Click the **START A LUNCH** button or visit [https://github.com/jsla/lunch.js/issues/new](https://github.com/jsla/lunch.js/issues/new) page
+* Click the **START A LUNCH** button or visit the [https://github.com/jsla/lunch.js/issues/new](https://github.com/jsla/lunch.js/issues/new) page
 
 ![Fill out the Template](/img/lunchjs_be_a_champion.png)
 * Fill out an event by listing your city name and the date of the
