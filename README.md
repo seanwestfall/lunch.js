@@ -14,8 +14,8 @@ If you don't see a lunch near you, [create one](https://github.com/jsla/lunch.js
        + [Signing In and Joining an
          Event](#signing-in-and-joining-an-event)
   1. [Create a Lunch.js event](#create-lunch.js)
-       + [Start a Survey](#signing-in-and-joining-an-event)
-       + [Close an Event](#signing-in-and-joining-an-event)
+       + [Start a Survey](#start-a-survey-with-emojis)
+       + [Close an Event](#close-an-event)
 
 ## Join a Lunch.JS
 ### Sign Up for Github
