@@ -20,6 +20,17 @@ If you don't see a lunch near you, [create one](https://github.com/jsla/lunch.js
 ![Signup for Github](/img/github_signup.png)
 
 ### Signing In and Joining an Event
+![Sign in for Github](/img/github_signin.png)
+
+![Click the Join a Lunch.js button](/img/lunchjs_join.png)
+
+![Find an Event](/img/lunchjs_pickevent.png)
+
+![Find an Event](/img/lunchjs_joinevent.png)
 
 ## Create a Lunch.js event 
+![Click the Create a Lunch.js button](/img/lunchjs_create.png)
+
+![Fill out the Template](/img/lunchjs_be_a_champion.png)
+
 
