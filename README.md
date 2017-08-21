@@ -32,7 +32,7 @@ If you don't see a lunch near you, [create one](https://github.com/jsla/lunch.js
 can't find an event near you think about starting your own!
 
 ![Join an Event](/img/lunchjs_joinevent.png)
-..* Join an event by simply leaving a comment that you're coming.
+* Join an event by simply leaving a comment that you're coming.
 
 ## Create a Lunch.js event 
 ![Click the Create a Lunch.js button](/img/lunchjs_create.png)
