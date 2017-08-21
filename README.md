@@ -17,6 +17,7 @@ If you don't see a lunch near you, [create one](https://github.com/jsla/lunch.js
 
 ## Join a Lunch.JS
 ### Signing Up for Github
+![Signup for Github](/img/github_signup.png)
 
 ### Signing In and Joining an Event
 
